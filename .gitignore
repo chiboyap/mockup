@@ -1,3 +1,5 @@
 pinegrow.json
-./_pgbackup
-./_pginfo
+_pgbackup/*
+!_pgbackup/*
+_pginfo/*
+!_pginfo/*
